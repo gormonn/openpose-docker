@@ -10,7 +10,7 @@ At first, use this guides to install `nvidia-docker`:
 
 Then get an image:
 ```
-git pull exsidius/openpose
+docker pull exsidius/openpose
 ```
 
 To run the container, use the following commmand (Ubuntu):
